@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stephan Ahlf <webmaster@saquery.com>\n"
+"Language-Team: Vladimir Zhukov <orktos@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Tip"
+msgstr "Совет"
+
+msgid "Moderate incoming searchengine keywords"
+msgstr "Разрешить входящие ключевые слова поисковых систем"
+
+msgid "You can check if new incoming search queries deliver results in WP SEO Tag Search. Only Keyswords with a length of more than 3 letters will be considered"
+msgstr "Вы можете проверить, приносят ли новые входящие поисковые запросы результаты в WP SEO Tag Search. Учитываются только ключевые слова длиной более 3 символов."
+
+msgid "Select all items in list"
+msgstr "Выберите всё в списке"
+
+msgid "Last Searchengine Visitor"
+msgstr "Последний посетитель с поисковой системы"
+
+msgid "Moderated"
+msgstr "Разрешено"
+
+msgid "Deleted"
+msgstr "Удалено"
+
+msgid "Selection"
+msgstr "Выбор"
+
+msgid "Moderate"
+msgstr "Разрешить"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Remove moderation"
+msgstr "Убрать разрешение"
+
+msgid "Undelete"
+msgstr "Отменить удаление"
+
+msgid "Show unmoderated"
+msgstr "Не разрешённые"
+
+msgid "Show moderated"
+msgstr "Разрешённые"
+
+msgid "Show deleted"
+msgstr "Удалённые"
+
+msgid "Relevance"
+msgstr "Соответствие"
+
+msgid "Search for %searchphrase% on %blogname%"
+msgstr "Искать %searchphrase% в %blogname%"
+
+msgid "Looking for %searchphrase%"
+msgstr "Ищется %searchphrase%"
+
+msgid "or"
+msgstr "или"
+
+msgid "We have the following articles on these keywords for you"
+msgstr "У нас есть следующие статьи, относящиеся к этим ключевым словам"
+
+msgid "Other relevant searches"
+msgstr "Другие поиски соответствий"
+
+msgid "Latest queries"
+msgstr "Последние запросы"
+
+msgid "Mark selected URLs as moderated now"
+msgstr "Отметить выбранные ссылки как разрешённые"
+
+msgid "Mark selected URLs as deleted now"
+msgstr "Отметить выбранные ссылки как удаленные"
+
+msgid "Mark selected URLs as unmoderated now"
+msgstr "Отметить выбранные ссылки как неразрешённые"
+
+msgid "Undelete selected URLs now"
+msgstr "Отменить удаление выбранных ссылок"
+
+msgid "Show all moderated URLs now"
+msgstr "Показать все разрешённые ссылки"
+
+msgid "Show all deleted URLs now"
+msgstr "Показать все удаленные ссылки"
+
+msgid "This is only a Preview! %URI% is not moderated! You can view this page because you have an administrative userrole"
+msgstr "Это только предварительный просмотр! %URI% не разрешён! Вы можете видеть эту страницу, так как являетесь администратором."
+

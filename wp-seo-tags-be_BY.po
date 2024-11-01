@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KS\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis G. <by.marcis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Tip"
+msgstr "Рада"
+
+msgid "Moderate incoming searchengine keywords"
+msgstr "Дазволіць уваходныя ключавыя словы пошукавых сістэм"
+
+msgid "You can check if new incoming search queries deliver results in WP SEO Tag Search. Only Keyswords with a length of more than 3 letters will be considered"
+msgstr "Вы можаце праверыць, ці прыносяць новыя ўваходныя пошукавыя запыты вынікі ў WP SEO Tag Search. Улічваюцца толькі ключавыя словы даўжынёй больш 3 знакаў."
+
+msgid "Select all items in list"
+msgstr "Абярыце ўсё ў спісе"
+
+msgid "Last Searchengine Visitor"
+msgstr "Апошні наведвальнік з пошукавай сістэмы"
+
+msgid "Moderated"
+msgstr "Дазволена"
+
+msgid "Deleted"
+msgstr "Выдалена"
+
+msgid "Selection"
+msgstr "Выбар"
+
+msgid "Moderate"
+msgstr "Дазволіць"
+
+msgid "Delete"
+msgstr "Выдаліць"
+
+msgid "Remove moderation"
+msgstr "Прыбраць дазвол"
+
+msgid "Undelete"
+msgstr "Адмяніць выдаленне"
+
+msgid "Show unmoderated"
+msgstr "Не дазволеныя"
+
+msgid "Show moderated"
+msgstr "Дазволеныя"
+
+msgid "Show deleted"
+msgstr "Выдаленыя"
+
+msgid "Relevance"
+msgstr "Адпаведнасць"
+
+msgid "Search for %searchphrase% on %blogname%"
+msgstr "Шукаць %searchphrase% у %blogname%"
+
+msgid "Looking for %searchphrase%"
+msgstr "Шукаецца %searchphrase%"
+
+msgid "or"
+msgstr "ці"
+
+msgid "We have the following articles on these keywords for you"
+msgstr "У нас ёсць наступныя артыкулы, якія адносяцца да гэтых ключавых слоў"
+
+msgid "Other relevant searches"
+msgstr "Іншыя пошукі адпаведнасцяў"
+
+msgid "Latest queries"
+msgstr "Апошнія запыты"
+
+msgid "Mark selected URLs as moderated now"
+msgstr "Адзначыць абраныя спасылкі як дазволеныя"
+
+msgid "Mark selected URLs as deleted now"
+msgstr "Адзначыць абраныя спасылкі як выдаленыя"
+
+msgid "Mark selected URLs as unmoderated now"
+msgstr "Адзначыць абраныя спасылкі як недазволеныя"
+
+msgid "Undelete selected URLs now"
+msgstr "Адмяніць выдаленне абраных спасылак"
+
+msgid "Show all moderated URLs now"
+msgstr "Паказаць усе дазволеныя спасылкі"
+
+msgid "Show all deleted URLs now"
+msgstr "Паказаць усе выдаленыя спасылкі"
+
+msgid "This is only a Preview! %URI% is not moderated! You can view this page because you have an administrative userrole"
+msgstr "Гэта толькі папярэдні прагляд! %URI% не дазволены! Вы можаце бачыць гэту старонку, бо з'яўляецеся адміністратарам."
+

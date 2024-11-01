@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Tip"
+msgstr "Hinweis"
+
+msgid "Moderate incoming searchengine keywords"
+msgstr "Eingehende Suchmaschinen-Keywords moderieren"
+
+msgid "You can check if new incoming search queries deliver results in WP SEO Tag Search. Only Keyswords with a length of more than 3 letters will be considered"
+msgstr "Prüfen Sie, ob die neuen eingehenden Suchmaschinen-Anfragen ein Ergebnis im WP SEO Tag-Search liefern. Es werden lediglich Keywords mit einer Länge von mehr als 3 Buchstaben berücksichtigt"
+
+msgid "Select all items in list"
+msgstr "Alle Einträge in der Liste auswählen"
+
+msgid "Last Searchengine Visitor"
+msgstr "Letzter Besuch"
+
+msgid "Moderated"
+msgstr "Moderiert"
+
+msgid "Deleted"
+msgstr "Gelöscht"
+
+msgid "Selection"
+msgstr "Auswahl"
+
+msgid "Moderate"
+msgstr "Moderieren"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Remove moderation"
+msgstr "Moderation entfernen"
+
+msgid "Undelete"
+msgstr "Wiederherstellen"
+
+msgid "Show unmoderated"
+msgstr "Neue anzeigen"
+
+msgid "Show moderated"
+msgstr "Moderierte anzeigen"
+
+msgid "Show deleted"
+msgstr "Gelöschte anzeigen"
+
+msgid "Relevance"
+msgstr "Relevanz"
+
+msgid "Search for %searchphrase% on %blogname%"
+msgstr "Recherche nach %searchphrase% auf %blogname%"
+
+msgid "Looking for %searchphrase%"
+msgstr "Sie suchen nach %searchphrase%"
+
+msgid "or"
+msgstr "oder"
+
+msgid "We have the following articles on these keywords for you"
+msgstr "Wir haben folgende Artikel zu diesen Stichwörtern gefunden"
+
+msgid "Other relevant searches"
+msgstr "Weitere relevante Suchanfragen"
+
+msgid "Latest queries"
+msgstr "Letzte Suchanfragen"
+
+msgid "Mark selected URLs as moderated now"
+msgstr "Ausgewählte Einträge als moderiert markieren"
+
+msgid "Mark selected URLs as deleted now"
+msgstr "Ausgewählte Einträge als gelöscht markieren"
+
+msgid "Mark selected URLs as unmoderated now"
+msgstr "Ausgewählte Einträge als nicht moderiert markieren"
+
+msgid "Undelete selected URLs now"
+msgstr "Ausgewählte Einträge wiederherstellen"
+
+msgid "Show all moderated URLs now"
+msgstr "Alle moderierten Einträge jetzt anzeigen"
+
+msgid "Show all deleted URLs now"
+msgstr "Alle gelöschten Einträge jetzt anzeigen"
+
+msgid "This is only a Preview! %URI% is not moderated! You can view this page because you have an administrative userrole"
+msgstr "Dies ist lediglich eine Vorschau! %URI% ist bischer nicht moderiert. Du kannst diese Seite sehen, weil du eine administrative Benutzerrolle hast."
+

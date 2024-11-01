@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stephan Ahlf <webmaster@saquery.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Tip"
+msgstr "نصيحة"
+
+msgid "Moderate incoming searchengine keywords"
+msgstr "وجه الجمل البحثية المتولدة"
+
+msgid "You can check if new incoming search queries deliver results in WP SEO Tag Search. Only Keyswords with a length of more than 3 letters will be considered"
+msgstr "تستطيع أن تتفقد أذا كانت عمليات البحث الجديدة تولد نتائج فى أضافة وردبريس سيو تاجس. لا يتم الأهتمام بالجمل البحثية المكونة من أقل من ثلاثة مقاطع"
+
+msgid "Select all items in list"
+msgstr "أختر جميع العناصر بالقائمة"
+
+msgid "Last Searchengine Visitor"
+msgstr "أخر زائر من محركات البحث"
+
+msgid "Delete"
+msgstr "وجه"
+
+msgid "Moderated"
+msgstr "مصرح بظهورها"
+
+msgid "Deleted"
+msgstr "تم حذفها"
+
+msgid "Selection"
+msgstr "تحديد"
+
+msgid "Moderate"
+msgstr "أدر"
+
+msgid "Remove moderation"
+msgstr "أزل تصريح الظهور"
+
+msgid "Undelete"
+msgstr "لا تحذف"
+
+msgid "Show unmoderated"
+msgstr "أظهر العناوين التى لم يتم أدارتها"
+
+msgid "Show moderated"
+msgstr "أظهر العناوين التى تمت أدارتها"
+
+msgid "Show deleted"
+msgstr "أظهر المحذوفة"
+
+msgid "Relevance"
+msgstr "متقاربة"
+
+msgid "Search for %searchphrase% on %blogname%"
+msgstr "أبحث عن %searchphrase% в %blogname%"
+
+msgid "Looking for %searchphrase%"
+msgstr "%searchphrase% أبحث عن"
+
+msgid "or"
+msgstr "أو"
+
+msgid "We have the following articles on these keywords for you"
+msgstr "تفحص تدوينات أخرى رائعة متعلقة بكلمات البحث الخاصة بك"
+
+msgid "Other relevant searches"
+msgstr "عمليات بحثية أخرى متقاربة"
+
+msgid "Latest queries"
+msgstr "أخر الكلمات البحثية"
+
+msgid "Mark selected URLs as moderated now"
+msgstr "أجعل العناوين المختارة مصرح بظهورها الأن"
+
+msgid "Mark selected URLs as deleted now"
+msgstr "أجعل العناوين المختارة محذوفة الأن"
+
+msgid "Mark selected URLs as unmoderated now"
+msgstr "أجعل العناوين المختارة كغير مصرح بظهورها الأن"
+
+msgid "Undelete selected URLs now"
+msgstr "لا تحذف العناوين المختارة الأن"
+
+msgid "Show all moderated URLs now"
+msgstr "أظهر جميع العناوين المصرح بظهورها الأن"
+
+msgid "Show all deleted URLs now"
+msgstr "أظهر جميع العناوين المحذوفة الأن"
+
+msgid "This is only a Preview! %URI% is not moderated! You can view this page because you have an administrative userrole"
+msgstr "هذه الصفحة لمجرد العرض %URI% ليست مصرح بظهورها بعد تستطيع رؤية هذه الصفحة لأنك تتمتع بحقوق الأدمن."
+

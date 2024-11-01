@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stephan Ahlf <webmaster@saquery.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+msgid "Tip"
+msgstr "Astuce"
+
+msgid "Moderate incoming searchengine keywords"
+msgstr "Moderez les mots clés entrants"
+
+msgid "You can check if new incoming search queries deliver results in WP SEO Tag Search. Only Keyswords with a length of more than 3 letters will be considered"
+msgstr "Vous pouvez vérifier si de nouvelles requetes sont présentes dans WP SEO Tag Search. Seul les mots clés avec plsu de 3 lettres sont pris en compte"
+
+msgid "Select all items in list"
+msgstr "Selectionnez tous les articles dans la la liste"
+
+msgid "Last Searchengine Visitor"
+msgstr "Dernier moteur utilisé"
+
+msgid "Moderated"
+msgstr "Modéré"
+
+msgid "Deleted"
+msgstr "Effacé"
+
+msgid "Selection"
+msgstr "Selection"
+
+msgid "Moderate"
+msgstr "Moderer"
+
+msgid "Effacer"
+msgstr "Effacer"
+
+msgid "Remove moderation"
+msgstr "Effacé moderation"
+
+msgid "Undelete"
+msgstr "Annuler effacement"
+
+msgid "Show unmoderated"
+msgstr "Montrer les non modérés"
+
+msgid "Show moderated"
+msgstr "Montrer les modérés"
+
+msgid "Show deleted"
+msgstr "Montrer les effacés"
+
+msgid "Relevance"
+msgstr "Pertinence"
+
+msgid "Search for %searchphrase% on %blogname%"
+msgstr "Recherche pour %searchphrase% sur %blogname%"
+
+msgid "Looking for %searchphrase%"
+msgstr "Recherche pour %searchphrase%"
+
+msgid "or"
+msgstr "ou"
+
+msgid "We have the following articles on these keywords for you"
+msgstr "Nous avons l'article suivant pour ces mots clés pour vous"
+
+msgid "Other relevant searches"
+msgstr "Autres résultats possible"
+
+msgid "Latest queries"
+msgstr "Dernière recherche"
+
+msgid "Mark selected URLs as moderated now"
+msgstr "Marquer les adresses selectionnées comme modéré maintenant"
+
+msgid "Mark selected URLs as deleted now"
+msgstr "Marquer les adresses selectionnées comme effacées maintenant"
+
+msgid "Mark selected URLs as unmoderated now"
+msgstr "Marquer les adresses selectionnées comme récupérées maintenant"
+
+msgid "Undelete selected URLs now"
+msgstr "Récuperer les adresses selectionnées maintenant"
+
+msgid "Show all moderated URLs now"
+msgstr "Montrer les adresses modérées maintenant"
+
+msgid "Show all deleted URLs now"
+msgstr "Montrer les adresses effacées maintenant"
+
+msgid "This is only a Preview! %URI% is not moderated! You can view this page because you have an administrative userrole"
+msgstr "Ceci est uniquement un apercu ! %URI% n'est pas modérée. Vous pouvez voir cette page car vous etes l'administrateur de ce site."
+
